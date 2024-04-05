@@ -10,7 +10,6 @@ const Footer = () => {
           </p>
           <div className="flex items-center gap-5">
           <p className="text-sm">
-          ©coppy right 2024. All Rights Reserved
             </p>
           </div>
     </div>
