@@ -28,11 +28,13 @@ const HeroSection = () => {
     1000,
     "Computer Engineer",
     1000,
-    "PCL design",
+    "Dev Sec Ops",
     1000,
-    "IOT Engineer",
+    "IOT System",
     1000,
-    "Electronic system",
+    "Cyber Security",
+    1000,
+    "Debuging",
     1000,
   ]}
   wrapper="span"
