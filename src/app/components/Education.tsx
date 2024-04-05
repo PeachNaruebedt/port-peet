@@ -22,15 +22,15 @@ const Education = () => {
         },
         {
             id: 3,
-            duration: "2015-2018",
-            title: "High School Diploma",
-            institution: "TU High School"
+            duration: "Xperience",
+            title: "Front - end Tranining Training",
+            institution: "Spankpang"
         },
         {
             id: 4,
-            duration: "2015-2018",
-            title: "Primary education Diploma",
-            institution: "St theresa College School"
+            duration: "Xperience",
+            title: "Soc fundamentals Training",
+            institution: "Xvideo"
         },
     ];
 
